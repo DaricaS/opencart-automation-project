@@ -6,4 +6,4 @@ public class CartPage {
         System.out.println("Adding product to cart");
     }
 
-}.
+}
