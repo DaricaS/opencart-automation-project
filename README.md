@@ -1,0 +1,1 @@
+This folder contains all Java source code for the project.
